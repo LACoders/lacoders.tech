@@ -5,12 +5,13 @@ export default ({ data }) => {
   console.log(data);
   return (
     <div>
-      <h2>Developers Meetup in Los Angeles, CA</h2>
+      <h2>LACoders is a Meetup group in Los Angeles, CA</h2>
       <p>
-      Are you a coder / developer / programmer from Glendale, CA or surrounding areas? This is a group for anyone interested in learning to code, pair-programming, teaching how to code, and learning new technologies.
+      Are you a coder / developer / programmer from Los Angeles? This is a group for anyone interested in learning to code, pair-programming, teaching how to code, and learning new technologies.
       Weekly gatherings. Supportive enviornment. Beginners are welcome! Workshops and guest speakers! <br />
       <b>Technologies we love: </b>
-      Javascript (React, Node, Angular, React Native), Python, PHP, Ruby, Go, HTML, CSS, Magento, Wordpress, Java, C#, C, C++ and much more!
+      Javascript (React, Node, Angular, React Native), Python, PHP, Ruby, Go, HTML, CSS, Magento, Wordpress, Java, C#, C, C++ and many more!
+      <b> Join here: <a href="https://www.meetup.com/lacoders/" target="_blank">https://www.meetup.com/lacoders/</a></b>
       </p>
       <h2>Read Our Blog</h2>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>

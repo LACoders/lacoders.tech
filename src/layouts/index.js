@@ -7,11 +7,12 @@ import './index.css'
 
 const Layout = ({ children, data }) => (
   <div>
+
     <Helmet
       title={data.site.siteMetadata.title}
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'Are you a coder / developer / programmer from Los Angeles? This is a group for anyone interested in learning to code, pair-programming, teaching how to code, and learning new technologies.' },
+        { name: 'keywords', content: 'Los Angeles, coding, meetup, coding meetup, developers, los angeles tech meetup' },
       ]}
     />
     <Header siteTitle={data.site.siteMetadata.title} />
