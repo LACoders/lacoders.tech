@@ -628,3 +628,26 @@ pre tt:after {
     font-size: 20px;
   }
 }
+
+#contactform input, #contactform textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#contactform input:focus, #contactform textarea:focus {
+    border: 3px solid rebeccapurple;
+}
+
+#contactform button[type=submit] {
+    background-color: rebeccapurple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}

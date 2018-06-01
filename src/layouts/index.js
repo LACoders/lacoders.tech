@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import Link from 'gatsby-link'
 
 import Header from '../components/header'
 import './index.css'
@@ -25,6 +26,17 @@ const Layout = ({ children, data }) => (
       }}
     >
       {children()}
+    </div>
+    <div
+      style={{
+        margin: '0 auto',
+        maxWidth: 960,
+        padding: '0px 1.0875rem 1.45rem',
+        paddingTop: 0,
+      }}
+    >
+      &copy; 2018 LACoders
+      <Link to="/contact-us" style={{float: 'right'}}>Get In Touch</Link>
     </div>
   </div>
 )

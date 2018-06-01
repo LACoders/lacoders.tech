@@ -11,8 +11,11 @@ export default ({ data }) => {
       Weekly gatherings. Supportive enviornment. Beginners are welcome! Workshops and guest speakers! <br />
       <b>Technologies we love: </b>
       Javascript (React, Node, Angular, React Native), Python, PHP, Ruby, Go, HTML, CSS, Magento, Wordpress, Java, C#, C, C++ and many more!
-      <b> Join here: <a href="https://www.meetup.com/lacoders/" target="_blank">https://www.meetup.com/lacoders/</a></b>
-      </p>
+      <br />
+      <b>Join here: <a href="https://www.meetup.com/lacoders/" target="_blank">https://www.meetup.com/lacoders/</a></b>
+      <br />
+      <b>Get in touch</b> with us <Link to="/contact-us">here</Link>.
+    </p>
       <h2>Read Our Blog</h2>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (

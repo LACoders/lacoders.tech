@@ -36,7 +36,7 @@ const Header = ({ siteTitle }) => (
           }}
         >
           {siteTitle}
-        </Link>
+        </Link> 
         <a href="https://www.meetup.com/Coders-Meetup-in-Glendale/" target="_blank" style={styles.joinBtn}>Join</a>
       </h1>
     </div>
