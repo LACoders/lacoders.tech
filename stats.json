@@ -4,9 +4,13 @@
       "path---2018-05-24-how-to-contribute-to-lacoderstech-f2af4b0d1ac27d2235b6.js",
       "path---2018-05-24-how-to-contribute-to-lacoderstech-f2af4b0d1ac27d2235b6.js.map"
     ],
+    "path---2018-06-10-intro-to-javascript-decorators": [
+      "path---2018-06-10-intro-to-javascript-decorators-613de22fa32905ea2d62.js",
+      "path---2018-06-10-intro-to-javascript-decorators-613de22fa32905ea2d62.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-db458de3d7d8e45fe1ff.js",
-      "component---src-pages-index-js-db458de3d7d8e45fe1ff.js.map"
+      "component---src-pages-index-js-660feddd11ea0d60daa0.js",
+      "component---src-pages-index-js-660feddd11ea0d60daa0.js.map"
     ],
     "component---src-pages-contact-us-js": [
       "component---src-pages-contact-us-js-461e39ec1576813cd012.js",
@@ -29,8 +33,8 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-13f41080fae6146e7d65.js",
-      "path---index-13f41080fae6146e7d65.js.map"
+      "path---index-d28ef0851a9c90089192.js",
+      "path---index-d28ef0851a9c90089192.js.map"
     ],
     "component---src-pages-page-3-js": [
       "component---src-pages-page-3-js-7377b6dcf6aa5e5c25fb.js",
@@ -57,9 +61,9 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-9b8ce633f2dc428e7927.js",
+      "app-5634c325974b181191e3.js",
       "build-js-styles.css",
-      "app-9b8ce633f2dc428e7927.js.map",
+      "app-5634c325974b181191e3.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
