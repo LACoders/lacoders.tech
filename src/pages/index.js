@@ -5,7 +5,7 @@ export default ({ data }) => {
   console.log(data);
   return (
     <div>
-      <h2>LACoders is a Meetup group in Los Angeles, CA</h2>
+      <h2>LACoders is a Coder/Developer Meetup group in Los Angeles, CA</h2>
       <p>
       Are you a coder / developer / programmer from Los Angeles? This is a group for anyone interested in learning to code, pair-programming, teaching how to code, and learning new technologies.
       Weekly gatherings. Supportive enviornment. Beginners are welcome! Workshops and guest speakers! <br />
