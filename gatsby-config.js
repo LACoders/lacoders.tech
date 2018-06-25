@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'LACoders',
+    title: 'LACoders'
   },
   plugins: [
     // react-helmet is included by default with gatsby

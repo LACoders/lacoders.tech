@@ -14,11 +14,6 @@ author: "Argi Avetisyan"
 - AI/ML Prototype Showcase built on Microsoft Azure's APIs - by Nick Kolev and Michael Witt - we ran out of time :(
 - Next Steps
 
-### The presentation
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFSbmx6hi9cj4X-f8iGL55Wziz8dN7086cr24rLYJVeuYct49tikrGPapd4t-u_97CZ5-4KmP5T5WL/embed?start=true&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
 #### What can be coded?
 
 - Websites & Web Apps (Web)
@@ -82,3 +77,7 @@ author: "Argi Avetisyan"
 
 
 To learn more about the group and be notified about future meetings, please join our Meetup group:  <a href="https://www.meetup.com/lacoders/" target="_blank">https://www.meetup.com/lacoders/</a>.  
+
+### The presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFSbmx6hi9cj4X-f8iGL55Wziz8dN7086cr24rLYJVeuYct49tikrGPapd4t-u_97CZ5-4KmP5T5WL/embed?start=true&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
